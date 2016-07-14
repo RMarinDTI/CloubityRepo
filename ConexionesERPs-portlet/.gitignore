@@ -1,0 +1,4 @@
+/.settings/
+/docroot/WEB-INF/classes/
+*.class
+/testignoregit
